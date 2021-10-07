@@ -34,7 +34,7 @@ This heatmap provides a more clear view how much less females use our services.
 
 # Summary
 
-I believe that this is a great idea for a business, but I believe using NYC data to pitch a business idea to Iowa is not a good idea, as the Des Moines area sees 13.7 million visitors [(Link to resources)](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/) compared to NYC 66.6 millions [(Link to resources)](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city#:~:text=New%20York%20City%20hosted%2066.6,reduction%20(see%20Figure%201).
+I believe that this is a great idea for a business, but I believe using NYC data to pitch a business idea to Iowa is not a good idea, as the Des Moines area sees 13.7 million visitors [(Link to resources)](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/) compared to NYC 66.6 millions [(Link to resources)](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city#:~:text=New%20York%20City%20hosted%2066.6,reduction%20(see%20Figure%201).).
 
 
 With this being said, I still believe this is a good business idea but I have 2 suggestions.
