@@ -34,8 +34,8 @@ This heatmap provides a more clear view how much less females use our services.
 
 # Summary
 
-I believe that this is a great idea for a business, but I believe using NYC data to pitch a business idea to Iowa is not a good idea, as the Des Moines area sees 13.7 million visitors [Data](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/) compared to NYC 66.6 millions [1](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city#:~:text=New%20York%20City%20hosted%2066.6,reduction%20(see%20Figure%201).)
-[2](https://public.tableau.com/app/profile/bettina.davis/viz/NYCCitiBikeRidesharingChallenge/NYCCitiBikeRidesharing?publish=yes)
+I believe that this is a great idea for a business, but I believe using NYC data to pitch a business idea to Iowa is not a good idea, as the Des Moines area sees 13.7 million visitors [(Link to resources)](https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/) compared to NYC 66.6 millions [(Link to resources)](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city#:~:text=New%20York%20City%20hosted%2066.6,reduction%20(see%20Figure%201).
+
 
 With this being said, I still believe this is a good business idea but I have 2 suggestions.
 1. It would be ideal if we could compare similar local business to see if this would be profitable, if there are no such business, maybe we could look at another city simila to Des Moines' data.
@@ -45,3 +45,6 @@ With this being said, I still believe this is a good business idea but I have 2 
 (1) https://www.catchdesmoines.com/articles/post/des-moines-draws-record-number-of-visitors-to-region/
 
 (2) https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city#:~:text=New%20York%20City%20hosted%2066.6,reduction%20(see%20Figure%201).
+
+
+Please visit my Tableau story throught this [link to dashboard.](https://public.tableau.com/app/profile/bettina.davis/viz/NYCCitiBikeRidesharingChallenge/NYCCitiBikeRidesharing?publish=yes)
